@@ -38,7 +38,7 @@
 <br/>
 
 ```text
-🥋 Rank         ── Software Engineer @ BNP Paribas
+🥋 Rank         ── Software Engineer
 🌊 Origin       ── CSE Graduate • 2026
 🏴‍☠️ Crew         ── Developers building the future
 🗺️ Base Camp    ── India
