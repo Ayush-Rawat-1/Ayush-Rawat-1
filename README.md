@@ -191,14 +191,12 @@
 <div align="center">
 
 <!-- Zoro Green Theme Stats Card Combo -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush-Rawat-1&theme=github_dark" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush-Rawat-1&theme=github_dark" height="170"/>
+<img src="./assets/stats.svg"/>
 
 <br/><br/>
 
 <!-- Dark Moss Streak System -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Rawat-1&hide_border=true&background=0b1f13&ring=00ff66&fire=facc15&currStreakLabel=00ff66&sideLabels=166534&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&border_radius=12" height="170"/>
+<img src="./assets/streak.svg"/>
 
 <br/><br/>
 
