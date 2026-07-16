@@ -245,6 +245,20 @@ Currently grinding my next arc: <br/>
 </tr>
 </table>
 
+## ⚔️ The Endless Journey (Battle History)
+
+<div >
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="./assets/stats.svg" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="./assets/streak.svg" width="100%" />
+    </td>
+  </tr>
+</table>
+</div>
 
 <div align="center">
 
