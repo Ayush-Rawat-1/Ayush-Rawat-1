@@ -54,7 +54,7 @@
                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                     </g>
                     <text x="56" y="154" class="label" >Total Commits:</text>
-                    <text x="195" y="154" class="value" >279</text>
+                    <text x="195" y="154" class="value" >281</text>
                 </g>
             
                 <g class="animate-fade" style="animation-delay: 0.55s">
@@ -86,12 +86,12 @@
                     <g class="animate-fade" style="animation-delay: 0.50s">
                         <circle cx="6" cy="-5" r="5" fill="#DA5B0B" />
                         <text x="24" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="13px" fill="#ffffff">Jupyter Notebook</text>
-                        <text x="264" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" fill="#8b9b90" text-anchor="end">51.8%</text>
+                        <text x="264" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" fill="#8b9b90" text-anchor="end">51.7%</text>
                         
                         
         <rect x="24" y="8" width="240" height="6" rx="3" fill="#1e291e" />
         
-        <rect x="24" y="8" width="124.26646788753436" height="6" rx="3" fill="#DA5B0B" style="
+        <rect x="24" y="8" width="124.19064256791033" height="6" rx="3" fill="#DA5B0B" style="
             transform-origin: 24px 8px;
             animation: growTrack 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             animation-delay: 0.5s;
@@ -110,7 +110,7 @@
                         
         <rect x="24" y="8" width="240" height="6" rx="3" fill="#1e291e" />
         
-        <rect x="24" y="8" width="53.19626494567988" height="6" rx="3" fill="#f1e05a" style="
+        <rect x="24" y="8" width="53.1638054748276" height="6" rx="3" fill="#f1e05a" style="
             transform-origin: 24px 8px;
             animation: growTrack 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             animation-delay: 0.56s;
@@ -124,12 +124,12 @@
                     <g class="animate-fade" style="animation-delay: 0.62s">
                         <circle cx="6" cy="-5" r="5" fill="#3572A5" />
                         <text x="24" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="13px" fill="#ffffff">Python</text>
-                        <text x="264" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" fill="#8b9b90" text-anchor="end">10.0%</text>
+                        <text x="264" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" fill="#8b9b90" text-anchor="end">10.1%</text>
                         
                         
         <rect x="24" y="8" width="240" height="6" rx="3" fill="#1e291e" />
         
-        <rect x="24" y="8" width="24.015042255376475" height="6" rx="3" fill="#3572A5" style="
+        <rect x="24" y="8" width="24.146832662985016" height="6" rx="3" fill="#3572A5" style="
             transform-origin: 24px 8px;
             animation: growTrack 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             animation-delay: 0.62s;
@@ -148,7 +148,7 @@
                         
         <rect x="24" y="8" width="240" height="6" rx="3" fill="#1e291e" />
         
-        <rect x="24" y="8" width="10.353312134640102" height="6" rx="3" fill="#3178c6" style="
+        <rect x="24" y="8" width="10.346994716795034" height="6" rx="3" fill="#3178c6" style="
             transform-origin: 24px 8px;
             animation: growTrack 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             animation-delay: 0.68s;
@@ -167,7 +167,7 @@
                         
         <rect x="24" y="8" width="240" height="6" rx="3" fill="#1e291e" />
         
-        <rect x="24" y="8" width="8.33433785796318" height="6" rx="3" fill="#663399" style="
+        <rect x="24" y="8" width="8.329252384442626" height="6" rx="3" fill="#663399" style="
             transform-origin: 24px 8px;
             animation: growTrack 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             animation-delay: 0.74s;
