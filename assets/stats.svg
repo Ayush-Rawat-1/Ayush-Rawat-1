@@ -38,7 +38,7 @@
                         <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                     </g>
                     <text x="56" y="90" class="label" >Total Repos:</text>
-                    <text x="195" y="90" class="value" >49</text>
+                    <text x="195" y="90" class="value" >50</text>
                 </g>
             
                 <g class="animate-fade" style="animation-delay: 0.45s">
@@ -54,7 +54,7 @@
                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                     </g>
                     <text x="56" y="154" class="label" >Total Commits:</text>
-                    <text x="195" y="154" class="value" >281</text>
+                    <text x="195" y="154" class="value" >282</text>
                 </g>
             
                 <g class="animate-fade" style="animation-delay: 0.55s">
@@ -78,7 +78,7 @@
                         <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                     </g>
                     <text x="56" y="250" class="label" >Contributed to:</text>
-                    <text x="195" y="250" class="value" >50</text>
+                    <text x="195" y="250" class="value" >51</text>
                 </g>
             
             
@@ -86,12 +86,12 @@
                     <g class="animate-fade" style="animation-delay: 0.50s">
                         <circle cx="6" cy="-5" r="5" fill="#DA5B0B" />
                         <text x="24" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="13px" fill="#ffffff">Jupyter Notebook</text>
-                        <text x="264" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" fill="#8b9b90" text-anchor="end">51.7%</text>
+                        <text x="264" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" fill="#8b9b90" text-anchor="end">50.6%</text>
                         
                         
         <rect x="24" y="8" width="240" height="6" rx="3" fill="#1e291e" />
         
-        <rect x="24" y="8" width="124.19064256791033" height="6" rx="3" fill="#DA5B0B" style="
+        <rect x="24" y="8" width="121.54347760509522" height="6" rx="3" fill="#DA5B0B" style="
             transform-origin: 24px 8px;
             animation: growTrack 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             animation-delay: 0.5s;
@@ -105,12 +105,12 @@
                     <g class="animate-fade" style="animation-delay: 0.56s">
                         <circle cx="6" cy="-5" r="5" fill="#f1e05a" />
                         <text x="24" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="13px" fill="#ffffff">JavaScript</text>
-                        <text x="264" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" fill="#8b9b90" text-anchor="end">22.2%</text>
+                        <text x="264" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" fill="#8b9b90" text-anchor="end">21.8%</text>
                         
                         
         <rect x="24" y="8" width="240" height="6" rx="3" fill="#1e291e" />
         
-        <rect x="24" y="8" width="53.1638054748276" height="6" rx="3" fill="#f1e05a" style="
+        <rect x="24" y="8" width="52.315896412285284" height="6" rx="3" fill="#f1e05a" style="
             transform-origin: 24px 8px;
             animation: growTrack 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             animation-delay: 0.56s;
@@ -124,12 +124,12 @@
                     <g class="animate-fade" style="animation-delay: 0.62s">
                         <circle cx="6" cy="-5" r="5" fill="#3572A5" />
                         <text x="24" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="13px" fill="#ffffff">Python</text>
-                        <text x="264" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" fill="#8b9b90" text-anchor="end">10.1%</text>
+                        <text x="264" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" fill="#8b9b90" text-anchor="end">9.8%</text>
                         
                         
         <rect x="24" y="8" width="240" height="6" rx="3" fill="#1e291e" />
         
-        <rect x="24" y="8" width="24.146832662985016" height="6" rx="3" fill="#3572A5" style="
+        <rect x="24" y="8" width="23.632134872018522" height="6" rx="3" fill="#3572A5" style="
             transform-origin: 24px 8px;
             animation: growTrack 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             animation-delay: 0.62s;
@@ -143,12 +143,12 @@
                     <g class="animate-fade" style="animation-delay: 0.68s">
                         <circle cx="6" cy="-5" r="5" fill="#3178c6" />
                         <text x="24" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="13px" fill="#ffffff">TypeScript</text>
-                        <text x="264" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" fill="#8b9b90" text-anchor="end">4.3%</text>
+                        <text x="264" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" fill="#8b9b90" text-anchor="end">6.2%</text>
                         
                         
         <rect x="24" y="8" width="240" height="6" rx="3" fill="#1e291e" />
         
-        <rect x="24" y="8" width="10.346994716795034" height="6" rx="3" fill="#3178c6" style="
+        <rect x="24" y="8" width="14.801236688142204" height="6" rx="3" fill="#3178c6" style="
             transform-origin: 24px 8px;
             animation: growTrack 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             animation-delay: 0.68s;
@@ -162,12 +162,12 @@
                     <g class="animate-fade" style="animation-delay: 0.74s">
                         <circle cx="6" cy="-5" r="5" fill="#663399" />
                         <text x="24" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="13px" fill="#ffffff">CSS</text>
-                        <text x="264" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" fill="#8b9b90" text-anchor="end">3.5%</text>
+                        <text x="264" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12px" fill="#8b9b90" text-anchor="end">3.4%</text>
                         
                         
         <rect x="24" y="8" width="240" height="6" rx="3" fill="#1e291e" />
         
-        <rect x="24" y="8" width="8.329252384442626" height="6" rx="3" fill="#663399" style="
+        <rect x="24" y="8" width="8.220305143135866" height="6" rx="3" fill="#663399" style="
             transform-origin: 24px 8px;
             animation: growTrack 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             animation-delay: 0.74s;
