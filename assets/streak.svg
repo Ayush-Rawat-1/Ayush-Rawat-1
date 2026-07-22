@@ -47,7 +47,7 @@
             
             <g transform="translate(106.66666666666666, 0)">
                 <g class="animate-fade" style="animation-delay: 0.5s">
-                    <text x="0" y="120" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="36px">340</text>
+                    <text x="0" y="120" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="36px">341</text>
                 </g>
                 <g class="animate-fade" style="animation-delay: 0.6s">
                     <text x="0" y="164" text-anchor="middle" fill="#17a24f" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="15px">Total Contributions</text>
@@ -69,13 +69,13 @@
                     </g>
                 </g>
                 
-                <text x="320" y="130" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" style="animation: currstreak 0.6s linear forwards">0</text>
+                <text x="320" y="130" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" style="animation: currstreak 0.6s linear forwards">3</text>
                 
                 <g class="animate-fade" style="animation-delay: 0.7s">
                     <text x="320" y="200" text-anchor="middle" fill="#00ff66" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="15px">Current Streak</text>
                 </g>
                 <g class="animate-fade" style="animation-delay: 0.8s">
-                    <text x="320" y="228" text-anchor="middle" fill="#ffffff" opacity="0.8" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="13px">No Active Streak</text>
+                    <text x="320" y="228" text-anchor="middle" fill="#ffffff" opacity="0.8" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="13px">Jul 20 - Jul 22</text>
                 </g>
             </g>
 
