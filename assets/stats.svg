@@ -54,7 +54,7 @@
                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                     </g>
                     <text x="56" y="154" class="label" >Total Commits:</text>
-                    <text x="195" y="154" class="value" >297</text>
+                    <text x="195" y="154" class="value" >298</text>
                 </g>
             
                 <g class="animate-fade" style="animation-delay: 0.55s">
@@ -91,7 +91,7 @@
                         
         <rect x="24" y="8" width="240" height="6" rx="3" fill="#1e291e" />
         
-        <rect x="24" y="8" width="120.25398084419494" height="6" rx="3" fill="#DA5B0B" style="
+        <rect x="24" y="8" width="120.23926145778329" height="6" rx="3" fill="#DA5B0B" style="
             transform-origin: 24px 8px;
             animation: growTrack 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             animation-delay: 0.5s;
@@ -110,7 +110,7 @@
                         
         <rect x="24" y="8" width="240" height="6" rx="3" fill="#1e291e" />
         
-        <rect x="24" y="8" width="51.76085898620123" height="6" rx="3" fill="#f1e05a" style="
+        <rect x="24" y="8" width="51.75452332829562" height="6" rx="3" fill="#f1e05a" style="
             transform-origin: 24px 8px;
             animation: growTrack 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             animation-delay: 0.56s;
@@ -129,7 +129,7 @@
                         
         <rect x="24" y="8" width="240" height="6" rx="3" fill="#1e291e" />
         
-        <rect x="24" y="8" width="25.464857585988156" height="6" rx="3" fill="#3572A5" style="
+        <rect x="24" y="8" width="25.491117221119584" height="6" rx="3" fill="#3572A5" style="
             transform-origin: 24px 8px;
             animation: growTrack 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             animation-delay: 0.62s;
@@ -148,7 +148,7 @@
                         
         <rect x="24" y="8" width="240" height="6" rx="3" fill="#1e291e" />
         
-        <rect x="24" y="8" width="14.644205252620088" height="6" rx="3" fill="#3178c6" style="
+        <rect x="24" y="8" width="14.642412765466718" height="6" rx="3" fill="#3178c6" style="
             transform-origin: 24px 8px;
             animation: growTrack 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             animation-delay: 0.68s;
@@ -167,7 +167,7 @@
                         
         <rect x="24" y="8" width="240" height="6" rx="3" fill="#1e291e" />
         
-        <rect x="24" y="8" width="8.133093084829238" height="6" rx="3" fill="#663399" style="
+        <rect x="24" y="8" width="8.132097574002925" height="6" rx="3" fill="#663399" style="
             transform-origin: 24px 8px;
             animation: growTrack 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
             animation-delay: 0.74s;
